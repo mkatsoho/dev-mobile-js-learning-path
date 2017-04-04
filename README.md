@@ -1,5 +1,17 @@
 # dev-mobile-js-learning-path
 
+## basic technology before developing mobile app
+
+- html, form
+- javascript, jquery
+- css
+- bootstrap v3 or v4
+
+## Developing web UI using VUEjs (the basis of Weex)
+
+- using this IDE instead
+https://jsfiddle.net/chrisvfritz/50wL7mdz/
+
 
 ## Develope mobile APP using Codova/PhoneGap
 
